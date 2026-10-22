@@ -1,0 +1,23 @@
+{
+  "nome": "Edmilson Pessoa",
+  "idade": 28,
+  "profissao": "Analista de Dados",
+  "renda_mensal": 2000.00,
+  "perfil_investidor": "moderado",
+  "objetivo_principal": "Construir reserva de emergência",
+  "patrimonio_total": 6000.00,
+  "reserva_emergencia_atual": 0.00,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Completar reserva de emergência",
+      "valor_necessario": 15000.00,
+      "prazo": "2026-06"
+    },
+    {
+      "meta": "Comprar um carro",
+      "valor_necessario": 75000.00,
+      "prazo": "2027-12"
+    }
+  ]
+}
